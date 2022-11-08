@@ -1,32 +1,82 @@
-Boas-vindas!
-
-Esse repositório vai acompanhar vocês até o final do curso, para mantermos a organização, sugerimos que vocês sigam a seguinte estrutura:
-
-```
 .
 ├── modulo1
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
+│   ├── operadores
+│   ├── projeto-readme
+│   ├── variaveis
+│   ├── git
+│   ├── strings-arrays
+│   ├── funcoes
+│   ├── projeto-lista-js
+│   ├── condicionais
+│   ├── lacos
+│   ├── objetos
+│   ├── funcoes-de-array
+│   ├── css-bugfixes
+│   ├── html-sistema-loja
+│   ├── projeto-blackjack
+│   ├── flex-grid
+│   ├── revisao-js
+│   ├── projeto-portfolio
+│   ├── css-labetube
+│   └── lading-page
 |
 ├── modulo2
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
+│   ├── props.labedin
+│   ├── estados-insta4
+│   ├── jsx-labetube
+│   ├── rend-condicional-form
+│   ├── ciclo-vida-todo
+│   ├── postman
+│   ├── apis-labenusers
+│   └── projeto-labefy
 |
 ├── modulo3
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
+│   ├── use-effect
+│   ├── projeto-astromatch
+│   ├── projeto-labex
+│   ├── labeddit
+│   └── use-state
 |
+├── modulo4
+│   ├── conversor-temperatura
+│   ├── cadastro-cliente
+│   ├── tabuada
+│   ├── gerador-itens-unicos
+│   ├── node-package-json
+│   ├── sistema-login
+│   ├── validar-chaves-de-objeto
+│   ├── aprofundamento-typescript
+│   ├── intro-typescript
+│   ├── projeto-lista-typescript
+│   ├── intro-express
+│   ├── aprofundamento-express
+│   ├── fluxo-de-dados-backend
+│   ├── apis-rest
+│   ├── projeto-toDoList
+│   ├── filtros-ordenacao-paginacao
+│   ├── query-builders
+│   ├── aprofundamento-sql
+│   ├── intro-sql
+│   ├── projeto-labebank
+│   ├── projeto-labecommerce-backend
+│   └── heroku
+|
+├── modulo5
+│   ├── classes-encapsulamento
+│   ├── heranca
+│   ├── projeto-labenu-system
+│   ├── projeto-labook
+│   ├── arquitetura-camadas
+│   ├── arquitetura-dtos
+│   ├── arquitetura-injecao
+│   ├── intro-auth
+│   ├── intro-criptografia
+│   ├── teste-jest
+│   ├── projeto-cookenu
+│   └── projeto-lama
+|
+├── modulo6
+│   ├── case-1-amaro
+│   ├── case-2-brainnco
+│   └── case-3-petlove
 .
-```
-
-Uma pasta para cada módulo, dentro delas uma pasta para cada dia de aula colocando o nome da aula e por fim uma pasta para cada projeto de fixação com o nome do projeto. Os nomes de cada aula e projeto estarão especificados nas instruções de git de cada exercício.
