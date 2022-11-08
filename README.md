@@ -1,3 +1,7 @@
+# Meu respositório do curso LABENU!
+
+Aqui você encontra todos os projetos realizados durante o curso. Espero que gostem! 🎈
+```
 .
 ├── modulo1
 │   ├── operadores
@@ -80,3 +84,4 @@
 │   ├── case-2-brainnco
 │   └── case-3-petlove
 .
+```
